@@ -1,5 +1,7 @@
 # WEBSOCKET-DEMO
 
+[![Build Status](https://travis-ci.org/dewafer/websocket-demo.svg?branch=master)](https://travis-ci.org/dewafer/websocket-demo)
+
 This is a prototype project demonstrated how to build a web socket project using Spring Boot and Vue.
 
 In this project, there is a ticker service emitting message to the Vue client every one second.
